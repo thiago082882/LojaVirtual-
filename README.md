@@ -39,7 +39,7 @@
 
 ## 📖 Sobre
 
-A proposta do projeto foi criar um clone do aplicativo prime Video, onde nele foi criado o JSON de filmes de várias categoria...
+"O projeto visa desenvolver uma plataforma de compras on-line para tornar a jornada de compra dos usuários mais simples e eficiente. Com a loja virtual, será possível navegar entre os produtos, compará-los, verificar sua disponibilidade e realizar a compra com apenas alguns cliques. Além disso, o pagamento será seguro através do Mercado Pago, garantindo a tranquilidade e satisfação dos consumidores".
 
 
 Este projeto foi desenvolvido durante minha jornada de estudos, com intuito de aprimorar os conhecimentos em desenvolvimento de android nativo.
@@ -52,6 +52,9 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 - Android Studio
 - Java
 - XML
+- Dialog
+- Navigation
+- MVC
 - Intents
 - Bundle
 - Navegação e dados entre Activities
@@ -61,7 +64,7 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 - RecyclerView
 - Banco de Dados
 - Firebase (Realtime e Storage)
-- Constraintlayout, framelayout e linearlayout
+- Constraintlayout,linearlayout
 - JSON
 - Binding
 
@@ -73,7 +76,7 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 
 O projeto foi desenvolvido utilizando as seguintes bibliotecas:
 
-- https://github.com/ReactiveX/RxAndroid/releases (RxJava)
+- https://github.com/mercadopago/px-android
 - https://square.github.io/retrofit/ 
 - https://github.com/bumptech/glide (Carregamento mais leve das imagens)
 - https://developer.android.com/jetpack/androidx/releases/recyclerview?hl=pt-br
