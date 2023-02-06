@@ -85,7 +85,7 @@ O projeto foi desenvolvido utilizando as seguintes bibliotecas:
 ---
 
 ## 🚀 Video
-https://www.linkedin.com/posts/thiagocostadejesus_java-activity-7026251061891850240-jt5w?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/thiagocostadejesus_api-java-kotlin-activity-7028413810780610560-ezWt?utm_source=share&utm_medium=member_desktop
 
 ---
 
