@@ -50,6 +50,7 @@ Este projeto foi desenvolvido durante minha jornada de estudos, com intuito de a
 O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 
 - Android Studio
+- Kotlin
 - Java
 - XML
 - Dialog
