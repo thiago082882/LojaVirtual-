@@ -3,7 +3,10 @@ pluginManagement {
         gradlePluginPortal()
         google()
         mavenCentral()
-        jcenter()
+        maven {
+            setUrl("https://artifacts.mercadolibre.com/repository/android-releases/")
+        }
+
     }
 }
 dependencyResolutionManagement {
@@ -11,7 +14,9 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        jcenter()
+        maven {
+            setUrl("https://artifacts.mercadolibre.com/repository/android-releases/")
+        }
     }
 }
 rootProject.name = "Loja Virtual"
